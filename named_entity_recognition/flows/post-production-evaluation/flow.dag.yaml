@@ -27,7 +27,7 @@ nodes:
     entity: ${inputs.entity_type}
     text: ${inputs.text}
     value: ${inputs.llm_result}
-  connection: aoai
+  connection: ai-usersy6sd2408ai151410936342
   api: chat
 - name: concat_scores
   type: python
